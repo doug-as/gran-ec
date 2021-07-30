@@ -1,0 +1,55 @@
+.filters-card-wrapper.filters-card .filters-card__title {
+    font-size: 18px;
+}
+
+.filters-card-wrapper.filters-card .form-check {
+    margin-bottom: 8px;
+}
+
+.filters-card-wrapper.filters-card .filters-card__card {
+    background-color: #ffffff;
+    padding: 25px 32px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.135216);
+}
+
+.filters-card-wrapper.filters-card .filters-card__section-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #5E6C84;
+    margin-bottom: 16px;
+}
+
+.filters-card-wrapper.filters-card .filters-card__divider {
+    border-color: #D6D6D6;
+    margin: 36px 0 32px;
+}
+
+.filters-card-wrapper.filters-card .filters-card__ratings > .row {
+    margin-bottom: 12px;
+}
+
+.filters-card-wrapper.filters-card .filters-card__ratings i {
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+.filters-card-wrapper.filters-card .filters-card__total {
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.filters-card-wrapper.filters-card .filters-card__button {
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.filters-card-wrapper.filters-card .filters-card__button:focus {
+    box-shadow: 0 0 0 0.25rem rgb(80 95 121 / 25%);
+}
+
+.filters-card-wrapper.filters-card .filters-card__button:hover {
+    color: #FAFBFC;
+}

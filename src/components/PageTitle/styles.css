@@ -1,0 +1,28 @@
+.page-title-wrapper {
+}
+.page-title-wrapper .page-title__divider {
+    height: 32px;
+    width: 1px;
+    background-color: #979797;
+    margin: 0 16px;
+}
+
+.page-title-wrapper .page-title__breadcrumb-divider {
+    font-size: 12px;
+    margin: 0 12px;
+}
+
+.page-title-wrapper .page-title__breadcrumb-text {
+    font-size: 14px;
+}
+
+.page-title-wrapper .page-title__config-btn {
+    background-color: #344563;
+    font-size: 18px;
+    color: #ffffff;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+}

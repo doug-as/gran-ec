@@ -1,0 +1,28 @@
+.ecommerce-wrapper {
+    background-color: #FAFBFC;
+    padding: 30px 34px;
+}
+
+.ecommerce-wrapper.page .page__page-title {
+    margin: 22px 0 26px;
+}
+.ecommerce-wrapper.page .page__section-title {
+    font-size: 18px;
+    margin-top: 25px;
+}
+
+.ecommerce-wrapper.page .page__page-filters {
+    margin-top: 17px;
+}
+
+.ecommerce-wrapper.page .page__search-actions {
+    margin-bottom: 20px;
+}
+
+.ecommerce-wrapper.page .page__product {
+    margin-bottom: 28px;
+}
+
+.ecommerce-wrapper.page .page__pagination {
+    margin-top: 180px;
+}

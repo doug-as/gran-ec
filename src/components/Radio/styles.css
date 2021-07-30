@@ -1,0 +1,10 @@
+.radio-wrapper .form-check-input:checked[type=radio] {
+    background-image: none;
+    background-color: #505F79;
+    border-color: #505F79;
+}
+
+.radio-wrapper .form-check-input:focus {
+    border: #505F79;
+    box-shadow: 0 0 0 0.25rem rgb(80 95 121 / 25%);
+}

@@ -1,0 +1,190 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #F9F9F9;
+    color: #091E42;
+}
+
+/* Gran Cursos Custom Text Colors */
+.text-g-blue-600 {
+    color: #0052CC;
+}
+
+.text-g-red-500 {
+    color: #FF000A;
+}
+
+.text-g-light-0 {
+    color: #ffffff;
+}
+
+.text-g-green-500 {
+    color: #36B37E;
+}
+
+.text-g-yellow-500 {
+    color: #FFAB00;
+}
+
+.text-g-purple-500 {
+    color: #6554C0;
+}
+
+.text-g-dark-500 {
+    color: #42526E;
+}
+
+.text-g-dark-600 {
+    color: #344563;
+}
+
+.text-g-dark-700 {
+    color: #253858;
+}
+
+.text-g-dark-800 {
+    color: #172B4D;
+}
+
+.text-g-dark-900 {
+    color: #091E42;
+}
+
+.text-g-mid-400 {
+    color: #B3BAC5;
+}
+
+.text-g-mid-500 {
+    color: #A5ADBA;
+}
+
+.text-g-mid-600 {
+    color: #97A0AF;
+}
+
+.text-g-mid-700 {
+    color: #6B778C;
+}
+
+.text-g-mid-800 {
+    color: #5E6C84;
+}
+
+.text-g-mid-900 {
+    color: #505F79;
+}
+
+.text-g-light-100 {
+    color: #FAFBFC;
+}
+
+.text-g-light-200 {
+    color: #F4F5F7;
+}
+
+.text-g-light-300 {
+    color: #EBECF0;
+}
+
+.text-g-light-400 {
+    color: #B3BAC5;
+}
+
+.text-g-light-500 {
+    color: #C1C7D0;
+}
+
+/* Gran Cursos Custom Background Colors */
+.bg-g-blue-600 {
+    background-color: #0052CC;
+}
+
+.bg-g-red-500 {
+    background-color: #FF000A;
+}
+
+.bg-g-light-0 {
+    background-color: #ffffff;
+}
+
+.bg-g-green-500 {
+    background-color: #36B37E;
+}
+
+.bg-g-yellow-500 {
+    background-color: #FFAB00;
+}
+
+.bg-g-purple-500 {
+    background-color: #6554C0;
+}
+
+.bg-g-dark-500 {
+    background-color: #42526E;
+}
+
+.bg-g-dark-600 {
+    background-color: #344563;
+}
+
+.bg-g-dark-700 {
+    background-color: #253858;
+}
+
+.bg-g-dark-800 {
+    background-color: #172B4D;
+}
+
+.bg-g-dark-900 {
+    background-color: #091E42;
+}
+
+.bg-g-mid-400 {
+    background-color: #B3BAC5;
+}
+
+.bg-g-mid-500 {
+    background-color: #A5ADBA;
+}
+
+.bg-g-mid-600 {
+    background-color: #97A0AF;
+}
+
+.bg-g-mid-700 {
+    background-color: #6B778C;
+}
+
+.bg-g-mid-800 {
+    background-color: #5E6C84;
+}
+
+.bg-g-mid-900 {
+    background-color: #505F79;
+}
+
+.bg-g-light-100 {
+    background-color: #FAFBFC;
+}
+
+.bg-g-light-200 {
+    background-color: #F4F5F7;
+}
+
+.bg-g-light-300 {
+    background-color: #EBECF0;
+}
+
+.bg-g-light-400 {
+    background-color: #B3BAC5;
+}
+
+.bg-g-light-500 {
+    background-color: #C1C7D0;
+}
+
+
+/* Custom Font Size */
+.c-fs-7 {
+    font-size: 0.875rem !important;
+}

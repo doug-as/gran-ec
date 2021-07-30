@@ -1,0 +1,42 @@
+.sidenav-wrapper {
+    height: 100%;
+}
+
+.sidenav-wrapper .sidenav {
+    position: relative;
+    width: 280px;
+    height: 100%;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.170509);
+    padding: 32px 20px 32px 24px;
+    overflow: auto;
+}
+
+.sidenav-wrapper .sidenav .sidenav__logo {
+    margin-bottom: 44px;
+}
+
+.sidenav-wrapper .sidenav .sidenav__header {
+    font-size: 13px;
+    font-weight: bold;
+    margin: 28px 13px 3px;
+}
+
+.sidenav-wrapper .sidenav.sidenav--floating {
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 999;
+}
+
+.sidenav-wrapper .sidenav__backdrop {
+    position: fixed;
+    z-index: 998;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #000000;
+    opacity: 0.25;
+}

@@ -1,0 +1,22 @@
+.top-bar-wrapper .top-bar {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 14px 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.135216);
+}
+
+.top-bar-wrapper .top-bar .top-bar__icon--disabled {
+    color: #C1C7D0;
+}
+
+.top-bar-wrapper .top-bar .top-bar__language {
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.top-bar-wrapper .toggle-menu {
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.135216);
+}

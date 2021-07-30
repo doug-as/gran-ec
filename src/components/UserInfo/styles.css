@@ -1,0 +1,20 @@
+.user-info-wrapper.user-info .user-info__avatar {
+    width: 34px;
+    height: 34px;
+    overflow: hidden;
+    border-radius: 50%;
+    box-shadow: -1px 1px 6px rgba(0, 0, 0, 0.235413);
+}
+
+.user-info-wrapper.user-info .user-info__data {
+    margin-right: 12px;
+}
+
+.user-info-wrapper.user-info .user-info__username {
+    font-size: 14px;
+}
+
+.user-info-wrapper.user-info .user-info__status {
+    font-size: 11px;
+    text-align: right;
+}

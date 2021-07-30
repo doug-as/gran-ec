@@ -1,0 +1,33 @@
+.pagination-wrapper.pagination {
+    text-align: center;
+}
+
+.pagination-wrapper.pagination .pagination__block {
+    line-height: 40px;
+    text-align: center;
+}
+
+.pagination-wrapper.pagination .pagination__arrow {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.pagination-wrapper.pagination .pagination__pages {
+    border-radius: 20px;
+    margin: 0 16px;
+    padding: 0 18px;
+}
+
+.pagination-wrapper.pagination .pagination__page:not(:last-child) {
+    margin-right: 16px;
+}
+
+.pagination-wrapper.pagination .pagination__page--active {
+    background-color: #505F79;
+    color: #ffffff;
+    border-radius: 50%;
+    padding: 10px 12px;
+}
+
+
